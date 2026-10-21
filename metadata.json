@@ -1,0 +1,6 @@
+{
+  "name": "The Hair Company - Poncha Springs Hair Salon",
+  "description": "Boutique hair salon in Poncha Springs, Colorado, led by stylist Matt Nance with 15 years experience. Specializing in curly hair shaping, blonding, precision cuts, and OLAPLEX treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
